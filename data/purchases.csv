@@ -1,1 +1,1 @@
-date,item,category,price,quantity,store,image_url,receipt_url,notes
+id,date,item,category,price,quantity,store,image_url,receipt_url,notes
