@@ -9,3 +9,4 @@ id,date,item,category,price,quantity,store,image_url,receipt_url,notes
 0008,2026-06-01,Aiminto 編み丸マーチンゲール,首輪,1399,1,Amazon,,,ピンク首輪
 0009,2026-06-01,クレート用マット,ベッド,1980,1,ビバホーム飯能,,,クレート内用
 0010,2026-06-01,microSDカード,見守り機器,3310,1,不明,,,Tapo C220用
+0011,2026-06-02,見守りカメラ TP-Link Tapo C220,見守り機器,4200,1,,,,追加登録
