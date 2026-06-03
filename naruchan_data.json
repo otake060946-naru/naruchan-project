@@ -1,0 +1,92 @@
+{
+  "last_updated": "2026-06-03",
+  "total_purchase_amount": 31190,
+  "purchase_history": [
+    {
+      "purchase_date": "2026-05-29",
+      "product_name": "見守りカメラ Tapo C220",
+      "category": "見守り機器",
+      "amount": 4200,
+      "status": "購入済み"
+    },
+    {
+      "purchase_date": "2026-05-30",
+      "product_name": "ソフトクレート Hapineko",
+      "category": "クレート",
+      "amount": 8712,
+      "status": "購入済み"
+    },
+    {
+      "purchase_date": "2026-05-30",
+      "product_name": "ハードクレート リッチェル",
+      "category": "クレート",
+      "amount": 9300,
+      "status": "到着済",
+      "arrival_date": "2026-06-03",
+      "photo_paths": [
+        "photos/purchases/2026-06-03_arrival_01.jpg"
+      ]
+    },
+    {
+      "purchase_date": "2026-06-01",
+      "product_name": "カラー ピンク",
+      "category": "首輪",
+      "amount": 1399,
+      "status": "到着済",
+      "arrival_date": "2026-06-03",
+      "photo_paths": [
+        "photos/purchases/2026-06-03_arrival_01.jpg"
+      ]
+    },
+    {
+      "purchase_date": "2026-06-01",
+      "product_name": "SUSWIM 丈夫な犬用リード",
+      "category": "散歩用品",
+      "amount": 1299,
+      "status": "到着済",
+      "arrival_date": "2026-06-03",
+      "photo_paths": [
+        "photos/purchases/2026-06-03_arrival_01.jpg"
+      ]
+    },
+    {
+      "purchase_date": "2026-06-01",
+      "product_name": "アイリスオーヤマ ステンレス食器",
+      "category": "給餌用品",
+      "amount": 990,
+      "status": "到着済",
+      "arrival_date": "2026-06-03",
+      "photo_paths": [
+        "photos/purchases/2026-06-03_arrival_01.jpg"
+      ]
+    },
+    {
+      "purchase_date": "2026-06-01",
+      "product_name": "クレート用マット",
+      "category": "ベッド",
+      "amount": 1980,
+      "status": "到着済",
+      "arrival_date": "2026-06-03",
+      "photo_paths": [
+        "photos/purchases/2026-06-03_arrival_01.jpg"
+      ]
+    },
+    {
+      "purchase_date": "2026-06-01",
+      "product_name": "microSDカード",
+      "category": "見守り機器",
+      "amount": 3310,
+      "status": "到着済",
+      "arrival_date": "2026-06-03"
+    }
+  ],
+  "payments": [
+    {
+      "item": "前払い金",
+      "amount": 120000
+    }
+  ],
+  "spots": [
+    "道の駅すばしり"
+  ]
+}
